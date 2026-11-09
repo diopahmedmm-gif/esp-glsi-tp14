@@ -1,0 +1,33 @@
+# Resultats de compilation de Maven : regeneres par mvn compile / mvn package
+target/
+
+# Configuration locale de la base (contient le mot de passe) : chacun a la sienne
+db.properties
+
+# Fichiers propres a IntelliJ IDEA (reglages personnels, chemins locaux)
+.idea/
+*.iml
+out/
+
+# Fichiers propres a Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Fichiers propres a NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+
+# Fichiers propres a VS Code
+.vscode/
+
+# Fichiers compiles et archives produits localement
+*.class
+*.jar
+*.log
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db

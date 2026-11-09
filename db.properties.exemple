@@ -1,0 +1,6 @@
+# Copier ce fichier en db.properties et y mettre le vrai mot de passe (db.properties n'est jamais publie)
+db.host=localhost
+db.port=3306
+db.name=tp13
+db.user=esp
+db.password=A_REMPLACER
